@@ -15,3 +15,4 @@
 - Feng, Yifan, et al. "**Hypergraph neural networks.**" AAAI (2019).
 - Jiang, Jianwen et al. “**Dynamic Hypergraph Neural Networks**.” IJCAI (2019).
 - Yadati, Naganand et al. “**HyperGCN: A New Method For Training Graph Convolutional Networks on Hypergraphs.**” NeurIPS (2019).
+- Bai, Song et al. “**Hypergraph Convolution and Hypergraph Attention.**” Pattern Recognit. 110 (2021): 107637.
