@@ -8,7 +8,7 @@
 ## 2020
 - Gao, Yue et al. “**Hypergraph Learning: Methods and Practices.**” IEEE transactions on pattern analysis and machine intelligence PP (2020)
 - Ebli, Stefania et al. “**Simplicial Neural Networks**.” Topological Data Analysis and Beyond workshop at NeurIPS 2020
-- Young, Jean-Gabriel et al. “Hypergraph reconstruction from network data.” Communications Physics 4 (2020): 1-11.
+- Young, Jean-Gabriel et al. “**Hypergraph reconstruction from network data.**” Communications Physics 4 (2020): 1-11.
 
 ## 2019
 - Feng, Yifan, et al. "**Hypergraph neural networks.**" AAAI (2019).
