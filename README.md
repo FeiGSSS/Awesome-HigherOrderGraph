@@ -5,7 +5,8 @@
 - Huang, Jing and Jie Yang. “**UniGNN: a Unified Framework for Graph and Hypergraph Neural Networks.**” IJCAI (2021).
 
 ## 2020
-- Gao, Yue et al. “**Hypergraph Learning: Methods and Practices.**” IEEE transactions on pattern analysis and machine intelligence PP (2020): n. pag.
+- Gao, Yue et al. “**Hypergraph Learning: Methods and Practices.**” IEEE transactions on pattern analysis and machine intelligence PP (2020)
+- Ebli, Stefania et al. “**Simplicial Neural Networks**.” Topological Data Analysis and Beyond workshop at NeurIPS 2020
 
 ## 2019
 - Feng, Yifan, et al. "**Hypergraph neural networks.**" AAAI (2019).
