@@ -1,4 +1,4 @@
-# awosome-HigherOrderGraph
+# Awesome-HigherOrderGraph
 
 
 ## 2021
