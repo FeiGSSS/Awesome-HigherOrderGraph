@@ -4,6 +4,7 @@
 ## 2021
 1. Huang, Jing and Jie Yang. “**UniGNN: a Unified Framework for Graph and Hypergraph Neural Networks.**” IJCAI (2021).
 2. Wang, Huan et al. “**Full reconstruction of simplicial complexes from binary time-series data.**” (2021).
+3. Arya, Devanshu et al. “**Adaptive Neural Message Passing for Inductive Learning on Hypergraphs.**” ArXiv abs/2109.10683 (2021)
 
 ## 2020
 1. Gao, Yue et al. “**Hypergraph Learning: Methods and Practices.**” IEEE transactions on pattern analysis and machine intelligence PP (2020)
