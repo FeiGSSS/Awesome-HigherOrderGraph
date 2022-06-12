@@ -5,6 +5,7 @@
 2. Wang, H., Ma, C., Chen, HS. et al. "**[Full reconstruction of simplicial complexes from binary contagion and Ising data](https://doi.org/10.1038/s41467-022-30706-9)**". Nat Commun 13, 3043 (2022). 
 3. M. Yang, E. Isufi and G. Leus, "**[Simplicial Convolutional Neural Networks](https://ieeexplore.ieee.org/document/9746017)**," ICASSP 2022.
 4. Guzmán-Sáenz, Aldo. “**[HIGH SKIP NETWORKS: A HIGHER ORDER GENERALIZATION OF SKIP CONNECTIONS](https://openreview.net/forum?id=Sc8glB-k6e9)**.” ICLR 2022 Workshop.
+5. Chien, Eli et al. “**[You are AllSet: A Multiset Function Framework for Hypergraph Neural Networks](https://openreview.net/forum?id=hpBTIv2uy_E).**” ICLR 2022.
 
 ## 2021
 1. Huang, Jing and Jie Yang. “**[UniGNN: a Unified Framework for Graph and Hypergraph Neural Networks](https://www.ijcai.org/proceedings/2021/0353.pdf).**” IJCAI (2021).
