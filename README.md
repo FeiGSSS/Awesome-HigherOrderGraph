@@ -7,6 +7,9 @@
 - Guzmán-Sáenz, Aldo. “**[HIGH SKIP NETWORKS: A HIGHER ORDER GENERALIZATION OF SKIP CONNECTIONS](https://openreview.net/forum?id=Sc8glB-k6e9)**.” ICLR 2022 Workshop.
 - Chien, Eli et al. “**[You are AllSet: A Multiset Function Framework for Hypergraph Neural Networks](https://openreview.net/forum?id=hpBTIv2uy_E).**” ICLR 2022.
 - Goh, Christopher Wei Jin et al. “**[Simplicial Attention Networks](https://openreview.net/forum?id=ScfRNWkpec)**.” ICLR 2022 Workshop on Geometrical and Topological Representation Learning.
+- L. Giusti, C. Battiloro, P. Di Lorenzo, S. Sardellitti, and S. Barbarossa. "**[Simplicial Attention Neural Networks](https://arxiv.org/pdf/2203.07485.pdf)**". arXiv preprint arXiv:2203.07485, 2022.
+
+
 ## 2021
 1. Huang, Jing and Jie Yang. “**[UniGNN: a Unified Framework for Graph and Hypergraph Neural Networks](https://www.ijcai.org/proceedings/2021/0353.pdf).**” IJCAI (2021).
 3. Arya, Devanshu et al. “**Adaptive Neural Message Passing for Inductive Learning on Hypergraphs.**” ArXiv abs/2109.10683 (2021)
