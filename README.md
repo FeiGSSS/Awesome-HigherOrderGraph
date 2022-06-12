@@ -1,11 +1,13 @@
 # Awesome-HigherOrderGraph
 
+## 2022
+1. Hajij, Mustafa et al. “**[Higher-Order Attention Networks](https://arxiv.org/pdf/2206.00606.pdf).**” Arxiv. (2022).
+2. Wang, H., Ma, C., Chen, HS. et al. "**[Full reconstruction of simplicial complexes from binary contagion and Ising data](https://doi.org/10.1038/s41467-022-30706-9)**". Nat Commun 13, 3043 (2022). 
 
 ## 2021
-1. Huang, Jing and Jie Yang. “**UniGNN: a Unified Framework for Graph and Hypergraph Neural Networks.**” IJCAI (2021).
-2. Wang, Huan et al. “**Full reconstruction of simplicial complexes from binary time-series data.**” (2021).
+1. Huang, Jing and Jie Yang. “**[UniGNN: a Unified Framework for Graph and Hypergraph Neural Networks](https://www.ijcai.org/proceedings/2021/0353.pdf).**” IJCAI (2021).
 3. Arya, Devanshu et al. “**Adaptive Neural Message Passing for Inductive Learning on Hypergraphs.**” ArXiv abs/2109.10683 (2021)
-4. Battiston, F., et al. "**The physics of higher-order interactions in complex systems**". Nature Physics, 2021
+4. Battiston, F., et al. "**[The physics of higher-order interactions in complex systems](https://www.nature.com/articles/s41567-021-01371-4)**". Nature Physics, 2021
 5. Kim, Jinwoo, Saeyoon Oh, and Seunghoon Hong. "**Transformers Generalize DeepSets and Can be Extended to Graphs & Hypergraphs.**" NeurIPS (2021).
 6. Xia, Xin et al. “**Self-Supervised Hypergraph Convolutional Networks for Session-based Recommendation.**” AAAI (2021).
 7. Srinivasan, Balasubramaniam, Da Zheng, and George Karypis. "**Learning over Families of Sets-Hypergraph Representation Learning for Higher Order Tasks.**" SDM (2021).
