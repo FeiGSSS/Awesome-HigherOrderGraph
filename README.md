@@ -53,4 +53,4 @@
 
 ## 4. Applications
 - [Hypergraphs and Cellular Networks](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000385). PLoS computational biology (2009)
-- [Rxn Hypergraph: a Hypergraph Attention Model for Chemical Reaction Representation](https://arxiv.org/abs/2201.01196) ArXiv 2022
+- [Rxn Hypergraph: a Hypergraph Attention Model for Chemical Reaction Representation](https://arxiv.org/abs/2201.01196) DLG-AAAI 2022
