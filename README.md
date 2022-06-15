@@ -1,19 +1,9 @@
 # Awesome-HigherOrderGraph
 
-## 2022
-- Hajij, Mustafa et al. “**[Higher-Order Attention Networks](https://arxiv.org/pdf/2206.00606.pdf).**” Arxiv. (2022).
-- Wang, H., Ma, C., Chen, HS. et al. "**[Full reconstruction of simplicial complexes from binary contagion and Ising data](https://doi.org/10.1038/s41467-022-30706-9)**". Nat Commun 13, 3043 (2022). 
-- M. Yang, E. Isufi and G. Leus, "**[Simplicial Convolutional Neural Networks](https://ieeexplore.ieee.org/document/9746017)**," ICASSP 2022.
-- Guzmán-Sáenz, Aldo. “**[HIGH SKIP NETWORKS: A HIGHER ORDER GENERALIZATION OF SKIP CONNECTIONS](https://openreview.net/forum?id=Sc8glB-k6e9)**.” ICLR 2022 Workshop.
-- Chien, Eli et al. “**[You are AllSet: A Multiset Function Framework for Hypergraph Neural Networks](https://openreview.net/forum?id=hpBTIv2uy_E).**” ICLR 2022.
-- Goh, Christopher Wei Jin et al. “**[Simplicial Attention Networks](https://openreview.net/forum?id=ScfRNWkpec)**.” ICLR 2022 Workshop on Geometrical and Topological Representation Learning.
-- L. Giusti, C. Battiloro, P. Di Lorenzo, S. Sardellitti, and S. Barbarossa. "**[Simplicial Attention Neural Networks](https://arxiv.org/pdf/2203.07485.pdf)**". arXiv preprint arXiv:2203.07485, 2022.
-
 
 ## 2021
-1. Huang, Jing and Jie Yang. “**[UniGNN: a Unified Framework for Graph and Hypergraph Neural Networks](https://www.ijcai.org/proceedings/2021/0353.pdf).**” IJCAI (2021).
+
 3. Arya, Devanshu et al. “**Adaptive Neural Message Passing for Inductive Learning on Hypergraphs.**” ArXiv abs/2109.10683 (2021)
-4. Battiston, F., et al. "**[The physics of higher-order interactions in complex systems](https://www.nature.com/articles/s41567-021-01371-4)**". Nature Physics, 2021
 5. Kim, Jinwoo, Saeyoon Oh, and Seunghoon Hong. "**Transformers Generalize DeepSets and Can be Extended to Graphs & Hypergraphs.**" NeurIPS (2021).
 6. Xia, Xin et al. “**Self-Supervised Hypergraph Convolutional Networks for Session-based Recommendation.**” AAAI (2021).
 7. Srinivasan, Balasubramaniam, Da Zheng, and George Karypis. "**Learning over Families of Sets-Hypergraph Representation Learning for Higher Order Tasks.**" SDM (2021).
@@ -31,7 +21,6 @@
 6. Yang, Chaoqi et al. “**Hypergraph Learning with Line Expansion.**” ArXiv abs/2005.04843 (2020): n. pag.
 7. Chen, Chaofan et al. “**Hypergraph Attention Networks.**” TrustCom (2020).
 8. Bandyopadhyay, Sambaran et al. “**Hypergraph Attention Isomorphism Network by Learning Line Graph Expansion.**” Big Data (2020).
-- Hajij, Mustafa et al. “**[Cell Complex Neural Networks](https://openreview.net/pdf?id=6Tq18ySFpGU)**.” In ICLR 2022 Workshop on Geometrical and Topological Representation Learning.
 
 ## 2019
 1. Feng, Yifan, et al. "**Hypergraph neural networks.**" AAAI (2019).
@@ -41,3 +30,27 @@
 5. Chitra, Uthsav and Benjamin J. Raphael. “**Random Walks on Hypergraphs with Edge-Dependent Vertex Weights.**” ICML (2019).
 6. Jin, Taisong et al. “**Hypergraph Induced Convolutional Manifold Networks.**” IJCAI (2019).
 
+## 1. Survey & Book
+- [The physics of higher-order interactions in complex systems](https://www.nature.com/articles/s41567-021-01371-4) Nature Physics, 2021
+
+## 2. Theory
+- [Hypergraph Laplace operators for chemical reaction networks](https://arxiv.org/pdf/1804.01474.pdf). Advances in mathematics (2019)
+
+## 3. Methods
+### 3.1 Neural Networks Models
+- [UniGNN: a Unified Framework for Graph and Hypergraph Neural Networks](https://www.ijcai.org/proceedings/2021/0353.pdf) IJCAI (2021)
+- [Higher-Order Attention Networks](https://arxiv.org/pdf/2206.00606.pdf) ArXiv (2022)
+- [Simplicial Convolutional Neural Networks](https://ieeexplore.ieee.org/document/9746017) ICASSP (2022)
+- [HIGH SKIP NETWORKS: A HIGHER ORDER GENERALIZATION OF SKIP CONNECTIONS](https://openreview.net/forum?id=Sc8glB-k6e9) ICLR Workshop 2022
+- [A Multiset Function Framework for Hypergraph Neural Networks](https://openreview.net/forum?id=hpBTIv2uy_E) ICLR 2022
+- [Simplicial Attention Networks](https://openreview.net/forum?id=ScfRNWkpec) ICLR Workshop 2022
+- [Simplicial Attention Neural Networks](https://arxiv.org/pdf/2203.07485.pdf). ArXiv 2022
+- [Cell Complex Neural Networks](https://openreview.net/pdf?id=6Tq18ySFpGU) ICLR 2022 Workshop
+
+### 3.2 Statistical Methods
+- [Full reconstruction of simplicial complexes from binary contagion and Ising data](https://doi.org/10.1038/s41467-022-30706-9). Nat Commun (2022)
+
+
+## 4. Applications
+- [Hypergraphs and Cellular Networks](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000385). PLoS computational biology (2009)
+- [Rxn Hypergraph: a Hypergraph Attention Model for Chemical Reaction Representation](https://arxiv.org/abs/2201.01196) ArXiv 2022
