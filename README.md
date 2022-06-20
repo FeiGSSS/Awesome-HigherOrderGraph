@@ -46,6 +46,7 @@
 - [Simplicial Attention Networks](https://openreview.net/forum?id=ScfRNWkpec) ICLR Workshop 2022
 - [Simplicial Attention Neural Networks](https://arxiv.org/pdf/2203.07485.pdf). ArXiv 2022
 - [Cell Complex Neural Networks](https://openreview.net/pdf?id=6Tq18ySFpGU) ICLR 2022 Workshop
+- [Graph Neural Network for Higher-Order Dependency Networks](https://dl.acm.org/doi/abs/10.1145/3485447.3512161) WWW 2022
 
 ### 3.2 Statistical Methods
 - [Full reconstruction of simplicial complexes from binary contagion and Ising data](https://doi.org/10.1038/s41467-022-30706-9). Nat Commun (2022)
