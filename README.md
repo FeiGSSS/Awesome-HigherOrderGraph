@@ -83,6 +83,7 @@ This is a collection of methods for higher-order graphs.
 
 ## 3. Applications
 [Co-clustering Interactions via Attentive Hypergraph Neural Network](https://dl.acm.org/doi/10.1145/3477495.3531868) SIGIR (2022).
+
 [Hypergraph Contrastive Collaborative Filtering](https://arxiv.org/abs/2204.12200) SIGIR (2022).
 
 [Rxn Hypergraph: a Hypergraph Attention Model for Chemical Reaction Representation](https://arxiv.org/abs/2201.01196) ArXiv 2022
