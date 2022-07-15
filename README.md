@@ -17,6 +17,8 @@ This is a collection of methods for higher-order graphs.
 ## 2. Methods
 ### 2.1 Neural Networks Models
 #### 2.1.1 HyperGraph-related
+[Equivariant Hypergraph Diffusion Neural Operators](https://arxiv.org/pdf/2207.06680.pdf) ArXiv (2022)
+
 [UniGNN: a Unified Framework for Graph and Hypergraph Neural Networks](https://www.ijcai.org/proceedings/2021/0353.pdf) IJCAI (2021)
 
 [HIGH SKIP NETWORKS: A HIGHER ORDER GENERALIZATION OF SKIP CONNECTIONS](https://openreview.net/forum?id=Sc8glB-k6e9) ICLR Workshop 2022
