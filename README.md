@@ -17,6 +17,8 @@ This is a collection of methods for higher-order graphs.
 ## 2. Methods
 ### 2.1 Neural Networks Models
 #### 2.1.1 HyperGraph-related
+[Hypergraph Collaborative Network on Vertices and Hyperedges](https://ieeexplore.ieee.org/abstract/document/9782536) TPAMI (2022)
+
 [Dynamic Hypergraph Convolutional Network](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9835240) ICDE (2022)
 
 [Learnable Hypergraph Laplacian for Hypergraph Learning](https://arxiv.org/pdf/2106.05701.pdf) ICASSP (2022)
