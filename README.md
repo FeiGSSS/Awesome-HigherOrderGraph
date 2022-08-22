@@ -82,6 +82,8 @@ This is a collection of methods for higher-order graphs.
 
 
 ### 2.2 Statistical Methods
+[Hypergraph reconstruction from noisy pairwise observations](https://arxiv.org/pdf/2208.06503.pdf) ArXiv (2022)
+
 [Full reconstruction of simplicial complexes from binary contagion and Ising data](https://doi.org/10.1038/s41467-022-30706-9). Nat Commun (2022)
 
 [Detecting informative higher-order interactions in statistically validated hypergraphs](https://arxiv.org/abs/2103.16484) ArXiv 2021.
