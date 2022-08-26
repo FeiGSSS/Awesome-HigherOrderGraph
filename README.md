@@ -10,7 +10,7 @@ This is a collection of methods for higher-order graphs.
 
 [The physics of higher-order interactions in complex systems](https://www.nature.com/articles/s41567-021-01371-4) Nature Physics, 2021
 
-[Hypergraph Learning: Methods and Practices](https://pubmed.ncbi.nlm.nih.gov/33211654/) IEEE transactions on pattern analysis and machine intelligence PP (2020)
+[Hypergraph Learning: Methods and Practices](https://pubmed.ncbi.nlm.nih.gov/33211654/) TPAMI (2020)
 
 [Networks beyond pairwise interactions: structure and dynamics](https://www.sciencedirect.com/science/article/pii/S0370157320302489) Physics Reports (2020)
 
