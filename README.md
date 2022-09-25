@@ -17,6 +17,8 @@ This is a collection of methods for higher-order graphs.
 ## 2. Methods
 ### 2.1 Neural Networks Models
 #### 2.1.1 HyperGraph-related
+[Hypergraph Structure Learning for Hypergraph Neural Networks](https://www.ijcai.org/proceedings/2022/267) IJCAI (2022)
+
 [Equivariant Hypergraph Neural Networks](https://arxiv.org/pdf/2208.10428.pdf) ECCV (2022)
 
 [HGNN+ : General Hypergraph Neural Networks](https://ieeexplore.ieee.org/document/9795251) TPAMI (2022)
