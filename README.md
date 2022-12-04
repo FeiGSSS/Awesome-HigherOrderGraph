@@ -100,6 +100,8 @@ This is a collection of methods for higher-order graphs.
 
 
 ## 3. Applications
+[HEGEL: Hypergraph Transformer for Long Document Summarization](https://arxiv.org/pdf/2210.04126.pdf) EMNLP (2022)
+
 [FC–HAT: Hypergraph attention network for functional brain network classification](https://www.sciencedirect.com/science/article/pii/S0020025522007307?via%3Dihub) Information Sciences (2022).
 
 [Co-clustering Interactions via Attentive Hypergraph Neural Network](https://dl.acm.org/doi/10.1145/3477495.3531868) SIGIR (2022).
