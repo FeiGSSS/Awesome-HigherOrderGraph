@@ -99,9 +99,15 @@ This is a collection of methods for higher-order graphs.
 [Hypergraph reconstruction from network data](https://www.nature.com/articles/s42005-021-00637-w) Communications Physics (2020)
 
 ## 3. Hyperlink Prediction
+[A Survey on Hyperlink Prediction] (https://arxiv.org/abs/2207.02911) ArXiv (2022)
+
 [A Two-Stage Framework for Directed Hypergraph Link Prediction](https://pdfs.semanticscholar.org/f5ad/dc95a3d30b8cc108eaa650124675e32284b7.pdf?_ga=2.242031562.953352642.1670147644-1287166874.1669990599) Mathematics (2022)
 
+[Predicting hyperlinks via hypernetwork loop structure](https://iopscience.iop.org/article/10.1209/0295-5075/ac1a22/pdf) EPL(2022)
+
 ## 4. Applications
+[Hypergraph Transformer for Skeleton-based Action Recognition](https://arxiv.org/pdf/2211.09590.pdf) ArXiv (2022)
+
 [HEGEL: Hypergraph Transformer for Long Document Summarization](https://arxiv.org/pdf/2210.04126.pdf) EMNLP (2022)
 
 [FC–HAT: Hypergraph attention network for functional brain network classification](https://www.sciencedirect.com/science/article/pii/S0020025522007307?via%3Dihub) Information Sciences (2022).
